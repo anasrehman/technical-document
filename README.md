@@ -1,6 +1,3 @@
-Certainly! Here’s a concise description for your GitHub repository that contains the technical documentation project you completed as part of the freeCodeCamp Responsive Web Design course:
-
----
 
 # Technical Documentation Project
 
