@@ -17,3 +17,6 @@ To view the project, simply open the `index.html` file in your web browser.
 ---
 
 Feel free to customize this description to better fit your specific project details.
+## Result
+### sample-1
+![Javascript Document](technical.JPG)
